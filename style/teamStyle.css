@@ -60,7 +60,8 @@
 
 .card-container-2 .card:last-child{
     margin-right: 0px;
-    background-image: url(/image/taylor1.png);
+    background-image: url(/image/taylor1.jpg);
+    background-size: cover;
 }   
 
 .card:nth-child(2) {
