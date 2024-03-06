@@ -49,33 +49,33 @@
     flex-direction: column;
     justify-content: flex-end;
 
-    background-image: url(/image/blaze1.png);
+    background-image: url(/prime-villa/image/blaze1.png);
     background-position: 50% 0%;
 }
 
 .card-container-2 .card:first-child{
-    background-image: url(/image/pol1.png);
+    background-image: url(/prime-villa/image/pol1.png);
     background-position: 40% 20%;
 }  
 
 .card-container-2 .card:last-child{
     margin-right: 0px;
-    background-image: url(/image/taylor1.jpg);
+    background-image: url(/prime-villa/image/taylor1.jpg);
     background-size: cover;
 }   
 
 .card:nth-child(2) {
-    background-image: url(/image/aria1.png);
+    background-image: url(/prime-villa/image/aria1.png);
     background-position: 50% 30%;
 }
 
 .card:nth-child(3) {
-    background-image: url(/image/taylor1.png);
+    background-image: url(/prime-villa/image/taylor1.png);
     background-position: 20% 0%;
 }
 
 .card:nth-child(4) {
-    background-image: url(/image/pol1.png);
+    background-image: url(/prime-villa/image/pol1.png);
     background-position: 40% 20%;
 }
 
